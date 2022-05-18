@@ -1,0 +1,140 @@
+
+.hero {
+
+    background-image: url(../assets/img/shutterstock_328212341\ \(1\).jpg);
+
+    background-color: #151E3d;
+
+    background-size: cover;
+
+    background-position: 100%;
+
+    padding: 20px 20px;
+
+    height: 500px;
+
+}
+
+#portrait {
+
+    border:#151E3d solid 5px;
+
+    border-radius: 15px;
+
+   display: block;
+
+   margin-left: auto;
+
+   margin-right: auto;
+
+   width: 18%;
+
+
+    
+
+}
+
+
+.hero-cta {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    margin-bottom: 0;
+
+
+}
+
+
+header {
+
+    background-color: #151E3d;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+    position: -webkit-sticky;
+
+    position: sticky;
+
+    top: 0;
+
+    background-size: cover;
+
+    background-position: 80%;
+
+    background-attachment: fixed;
+
+    font-weight: bold;
+    
+    font-size: 24px;
+    
+    color: #fff;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    }
+    
+    header a {
+    
+        text-decoration: none;
+    
+        color:#fff;
+
+        margin-left: 20px;
+    
+    }
+    
+    header nav {
+    
+        margin: 30px 20px;
+    
+    }
+    
+    header nav ul {
+    
+        display: flex;
+    
+        flex-wrap: wrap;
+    
+        justify-content: space-between;
+    
+        align-items: center;
+    
+        list-style: none;
+    
+    }
+    
+    header nav ul li a {
+    
+        padding: 10px 15px;
+    
+        font-weight: lighter;
+    
+        font-size: 1.55vw;
+    
+    }
+    
+    header nav ul li a:hover {
+    
+        background: #fff;
+    
+        color: #024e76;
+    
+        border-radius: 15px;
+    
+        text-shadow: none;
+    
+    }    
