@@ -271,9 +271,19 @@ header {
         background-color: #151E3d;
 
         color:#fff;
-        
+
     }
     
+    
+    .project-title, p {
+        
+        display: flex;
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+    }
 
     
     
