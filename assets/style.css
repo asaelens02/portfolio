@@ -178,3 +178,97 @@ header {
 
         text-indent: 40px;
     }
+
+    .projects {
+
+        display: flex;
+
+        flex-wrap: wrap;
+
+        justify-content:space-between;
+
+    }
+
+    .project-1 {
+
+        background-color: lightgray;
+
+        border:#151E3d solid 15px;
+
+        height: 400px;
+
+        width: 2000px;
+
+        border-radius: 15px;
+
+        margin-bottom: 50px;
+
+    }
+
+    .project-1 h3 {
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+        color: #151E3d;
+
+        font-size: larger;
+
+        display: flex;
+
+        justify-content: center;
+      
+    }
+
+    .project-1:hover {
+
+        background-color:#151E3d;
+
+        color:#fff;
+
+        font-size: larger;
+
+    }
+
+    .project-1 p {
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+        color:#151E3d;
+
+        font-size: larger;
+
+        display: flex;
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+    
+    }
+
+    .project {
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+        color:#151E3d;
+
+        font-size: larger;
+
+        background-color: lightgray;
+
+        border-radius: 15px;
+
+        border: solid 15px #151E3d;
+
+        height: 400px;
+
+        width: 400px;
+
+    
+    
+    }
+
+    
+
+    
+    
