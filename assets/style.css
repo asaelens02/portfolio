@@ -220,6 +220,7 @@ header {
 
         opacity: 50%;
 
+
     }
 
     .project-1 h3 {
@@ -233,6 +234,8 @@ header {
         display: flex;
 
         justify-content: center;
+
+
       
     }
 
@@ -318,9 +321,7 @@ header {
 
         align-content: center;
 
-        border-bottom: solid #fff 15px;
-
-       
+ 
 
     }
 
@@ -333,10 +334,13 @@ header {
 
         background-color: #151E3d;
 
-        color: #fff;
+        color: #fff;  
 
-       
+    }
 
+    .section-title {
+
+        border-bottom: solid #fff 3px;  
     }
 
     
