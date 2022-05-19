@@ -263,11 +263,16 @@ header {
         height: 400px;
 
         width: 400px;
-
-    
     
     }
+    
+    .project:hover {
 
+        background-color: #151E3d;
+
+        color:#fff;
+        
+    }
     
 
     
