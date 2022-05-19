@@ -189,6 +189,13 @@ header {
 
     }
 
+    .work {
+
+        background-image: url(../assets/img/shutterstock_328212341\ \(1\).jpg);
+
+        padding:0px; 
+    }
+
     .project-1 {
 
         background-color: lightgray;
@@ -202,6 +209,8 @@ header {
         border-radius: 15px;
 
         margin-bottom: 50px;
+
+        opacity: 50%;
 
     }
 
@@ -263,6 +272,8 @@ header {
         height: 400px;
 
         width: 400px;
+
+        opacity: 50%;
     
     }
     
@@ -283,6 +294,31 @@ header {
 
         justify-content: center;
 
+    }
+
+    .contact-list ul{
+
+        display: flex;
+
+        flex-wrap: wrap;
+
+        justify-content: space-between;
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+        font-size: larger;
+
+        align-items: center;
+
+    }
+
+    .Contact-me {
+
+        background-color: #151E3d;
+
+        color: #fff;
+
+        padding-bottom: 0px;
     }
 
     
