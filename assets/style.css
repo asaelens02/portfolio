@@ -29,11 +29,13 @@
 
    width: 18%;
 
-
-    
-
 }
 
+#portrait:hover {
+
+    width: 20%;
+
+}
 
 .hero-cta {
 
