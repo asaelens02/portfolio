@@ -352,7 +352,11 @@ header {
         border-bottom: #151E3d solid 3px;
     }
 
-   
+   a {
+
+    display: flex;
+
+   }
 
     
     
