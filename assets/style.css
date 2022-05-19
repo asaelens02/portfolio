@@ -233,10 +233,7 @@ header {
 
         display: flex;
 
-        justify-content: center;
-
-     
-
+        justify-content: center
 
       
     }
@@ -244,6 +241,11 @@ header {
     .project-1:hover {
 
         background-color:#151E3d;
+
+
+    }
+
+    .project-1, a, .project-title:hover {
 
         color:#fff;
 
