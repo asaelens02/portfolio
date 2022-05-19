@@ -133,7 +133,7 @@ header {
     
         background: #fff;
     
-        color: #024e76;
+        color: #151E3d;
     
         border-radius: 15px;
     
@@ -212,7 +212,7 @@ header {
 
         height: 400px;
 
-        width: 2000px;
+        width: 1695px;
 
         border-radius: 15px;
 
@@ -234,6 +234,8 @@ header {
         display: flex;
 
         justify-content: center;
+
+     
 
 
       
@@ -342,6 +344,13 @@ header {
 
         border-bottom: solid #fff 3px;  
     }
+
+    .work h2 {
+
+        border-bottom: #151E3d solid 3px;
+    }
+
+   
 
     
     
